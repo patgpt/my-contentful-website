@@ -16,7 +16,7 @@ export const Footer = () => {
         <div className="mt-8">
           {t('footer.powerBy')}{' '}
           <Link
-            href="https://www.contentful.com"
+            href="https://my-contentful-website.vercel.app"
             rel="noopener noreferrer"
             target="_blank"
             className="text-blue500"
