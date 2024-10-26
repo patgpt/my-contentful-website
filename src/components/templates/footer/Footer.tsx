@@ -21,7 +21,7 @@ export const Footer = () => {
             target="_blank"
             className="text-blue500"
           >
-            Contentful
+            Patrick Kelly
           </Link>
         </div>
       </Container>
